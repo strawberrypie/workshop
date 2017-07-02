@@ -1,1 +1,1 @@
-FROM strawberrypie/everware:latest
+FROM strawberrypie/everware-jupyter:latest
