@@ -1,1 +1,1 @@
-FROM strawberrypie/everware-jupyter:latest
+FROM astiunov/data-science-jupyter:latest
